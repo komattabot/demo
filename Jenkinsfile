@@ -1,4 +1,4 @@
-# pipeline
+# pipeline demo
 pipeline {
     agent {
       label "jenkins-maven"
